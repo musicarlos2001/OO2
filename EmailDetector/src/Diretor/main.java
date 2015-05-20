@@ -4,6 +4,9 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 //Poderia ser melhor
 //Ruidas
+
+
+//Amador
 import processador.Leitura;
 /**
  * 
