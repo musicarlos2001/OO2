@@ -3,6 +3,7 @@ package main;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 //Poderia ser melhor
+//Ruidas
 import processador.Leitura;
 /**
  * 
